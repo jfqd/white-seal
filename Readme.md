@@ -1,6 +1,6 @@
 # White-Seal
 
-white-seal.css is a lightweight, responsive and modern CSS framework based on [spectre.css](https://picturepan2.github.io/spectre).
+white-seal.css is a lightweight, responsive and modern CSS framework based on [spectre.css](https://picturepan2.github.io/spectre) ([Demo](https://download.qutic.com/white-seal/)).
 
 It is mainly used by the [RadiantMagic CMS](https://radiantmagic.com).
 
